@@ -241,10 +241,7 @@ run;quit;
 118   SI_QRY_03      |   THURSDAY_SI_QRY_03    TRACK THURSDAYSI_QRY_03                                                       
 119   SI_DS_01       |   THURSDAY_SI_DS_01     TRACK THURSDAYSI_DS_01                                                        
 120   SI_DS_02       |   THURSDAY_SI_DS_02     TRACK THURSDAYSI_DS_02                                                        
-                     |                         TRACK THURSDAYSI_DS_03                                                        
-                     |                                                                                                       
-                     |                                                                                                       
-                     |                                                                                                       
+                                                           
 */                                                                                                                           
                                                                                                                              
 * remover the macro arrays;;                                                                                                 
